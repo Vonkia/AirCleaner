@@ -13,7 +13,7 @@ target 'AirCleaner' do
     pod 'Kingfisher', '~> 4.2.0'
     pod 'MJRefresh', '~> 3.1.15'
     pod 'Moya/RxSwift', '~> 10.0'
-    pod 'ObjectMapper', '~> 3.1.0'
+    pod 'ObjectMapper', '~> 3.4'
     pod 'SVProgressHUD', '~> 2.2.2'
     pod 'SQLite.swift', '~> 0.11.4'
     pod 'CocoaAsyncSocket', '~> 7.6.1'
